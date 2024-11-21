@@ -1,0 +1,23 @@
+{
+  "name": "dictoken-erc20",
+  "version": "1.0.0",
+  "description": "Dwin Intertrade Token Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.1.0",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.4",
+    "node-fetch": "^3.3.2",
+    "xero-node": "^9.3.0-alpha.5"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@nomicfoundation/hardhat-verify": "^2.0.12"
+  }
+}
