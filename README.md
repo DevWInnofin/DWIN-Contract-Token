@@ -1,7 +1,14 @@
-# Project Background
+# DWIN Stablecoin
 
-Dwin Intertrade Company Limited registered at Department of Business Development,
-Ministry of Commerce, Thailand with a register number 0105558064390 on 10 April
-2015. The register address at 52/55 Thonglor Alley, Chomphon Subdistrict, Chatuchak
-District, Bangkok 10900 Thailand. The company has two (2) Authorize Signatories as
-Miss Suttatan Rungsichol and Mister Kitthanet Phirawaraphat. [ReadMe](White-Paper.pdf)
+link to: [0x24853fFc4cd238Fc6e673c88181DF4bF9a5828eC](https://optimism.blockscout.com/token/0x24853fFc4cd238Fc6e673c88181DF4bF9a5828eC).
+
+
+<img src="logo.png" width="100">
+
+---
+
+
+**Dwin Intertrade Company Limited** created the stable coin DWIN as an USDT coin on the Ethereum Platform
+by the cash fund back up from the Bundesbank‘s Reference ID: 2021/003930 dated
+April 19, 2021 and Reference ID: # 4-130669 Sep 20, 2021 from European Central
+Bank [Read More...](White-Paper.pdf)
